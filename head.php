@@ -51,7 +51,7 @@ print'
                 		</li>
                                 
                 		<li>
-                			<a href="About.php"><span class="l"></span><span class="r"></span><span class="t">About</span></a>
+                			<a href="about.php"><span class="l"></span><span class="r"></span><span class="t">About</span></a>
                 		</li>
                 	</ul>
                 </div>
